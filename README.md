@@ -48,7 +48,7 @@ Built using:
 ## 🛠 Installation & Running Locally
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/simple-weather-app.git
+   git clone https://github.com/aasimkhan02/AXWeather.git
    cd simple-weather-app
 2. **Run the Home.html**
 
